@@ -55,7 +55,7 @@ jobs:
           configFile: .devcontainer/amd64-container/devcontainer.json
           push: never
           runCmd: |
-            "make all"
+            "make"
       - 
         name: Release
         uses: softprops/action-gh-release@v1
