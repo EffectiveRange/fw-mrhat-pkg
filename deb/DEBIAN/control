@@ -1,5 +1,5 @@
 Package: fw-mrhat-pkg
-Version: 1.0.7
+Version: 1.0.8
 Maintainer: Effective Range Kft.
 Architecture: all
 Description: Firmware for PIC18-F16-Q20 MCU located on the MrHAT Raspberry PI extension hat.
